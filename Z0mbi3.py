@@ -1,4 +1,11 @@
 import os
 os.system("clear")
-print ("I need fuck zahra")
-print ("ksmk ya sarsor")
+print ("ALZOMBIE PASSED BU HERE !!")
+print ("I NEED FUCK . . . . . .")
+prnit ("SULAIMAN ABO ALJOD")
+prnit ("ABO KHAOLA")
+prnit ("HAKEM AL ARAB")
+prnit ("TOPAC AL GHAMED")
+prnit ("ALL (ARAB)")
+prnit ("WAHSH AL HOMSIE")
+prnit ("GHOST AL HALABI")
