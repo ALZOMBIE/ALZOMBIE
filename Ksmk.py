@@ -1,3 +1,3 @@
 import os
-os.system ("clear")
+os.system("clear")
 Print ("I need fuck zahra")
